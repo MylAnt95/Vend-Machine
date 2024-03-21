@@ -1,0 +1,14 @@
+C:\Users\antee\Documents\Assignments\C#\C--VendMachineAntM\VendMach\bin\Debug\net8.0\VendMach.exe
+C:\Users\antee\Documents\Assignments\C#\C--VendMachineAntM\VendMach\bin\Debug\net8.0\VendMach.deps.json
+C:\Users\antee\Documents\Assignments\C#\C--VendMachineAntM\VendMach\bin\Debug\net8.0\VendMach.runtimeconfig.json
+C:\Users\antee\Documents\Assignments\C#\C--VendMachineAntM\VendMach\bin\Debug\net8.0\VendMach.dll
+C:\Users\antee\Documents\Assignments\C#\C--VendMachineAntM\VendMach\bin\Debug\net8.0\VendMach.pdb
+C:\Users\antee\Documents\Assignments\C#\C--VendMachineAntM\VendMach\obj\Debug\net8.0\VendMach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antee\Documents\Assignments\C#\C--VendMachineAntM\VendMach\obj\Debug\net8.0\VendMach.AssemblyInfoInputs.cache
+C:\Users\antee\Documents\Assignments\C#\C--VendMachineAntM\VendMach\obj\Debug\net8.0\VendMach.AssemblyInfo.cs
+C:\Users\antee\Documents\Assignments\C#\C--VendMachineAntM\VendMach\obj\Debug\net8.0\VendMach.csproj.CoreCompileInputs.cache
+C:\Users\antee\Documents\Assignments\C#\C--VendMachineAntM\VendMach\obj\Debug\net8.0\VendMach.dll
+C:\Users\antee\Documents\Assignments\C#\C--VendMachineAntM\VendMach\obj\Debug\net8.0\refint\VendMach.dll
+C:\Users\antee\Documents\Assignments\C#\C--VendMachineAntM\VendMach\obj\Debug\net8.0\VendMach.pdb
+C:\Users\antee\Documents\Assignments\C#\C--VendMachineAntM\VendMach\obj\Debug\net8.0\VendMach.genruntimeconfig.cache
+C:\Users\antee\Documents\Assignments\C#\C--VendMachineAntM\VendMach\obj\Debug\net8.0\ref\VendMach.dll
